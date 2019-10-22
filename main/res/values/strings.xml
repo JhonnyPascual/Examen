@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="etNombre1">Nombre</string>
+    <string name="etNombre2">NOmbre</string>
+    <string name="BotonEnviar">Login</string>
+    <string name="BotonRegresar">Regresar</string>
+    <string name="txt_password">Password</string>
+</resources>
